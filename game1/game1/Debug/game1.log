@@ -1,0 +1,3 @@
+﻿  game.c
+d:\c语言学习\game1\game1\game.c(122): warning C4715: “Iswin”: 不是所有的控件路径都返回值
+  game1.vcxproj -> D:\C语言学习\game1\Debug\game1.exe
